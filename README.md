@@ -64,6 +64,8 @@ The code will:
 
 Adjust parameters in `configuration.py` to customize the evaluation:
 
+- `data` : Select the dataset for training
+- `model_type` : Select the model type for training
 - `batch_size`: Batch size for training
 - `num_epochs`: Maximum number of training epochs
 - `learning_rate`: Initial learning rate
