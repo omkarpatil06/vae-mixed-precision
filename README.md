@@ -58,14 +58,13 @@ The code will:
 2. Run multiple independent trials
 3. Generate comprehensive visualizations
 4. Perform statistical analysis
-5. Create a detailed report
 
 ## Configuration
 
 Adjust parameters in `configuration.py` to customize the evaluation:
 
 - `data` : Select the dataset for training
-- `model_type` : Select the model type for training
+- `model_type` : Select VAE or VQVAE model architecture for training
 - `batch_size`: Batch size for training
 - `num_epochs`: Maximum number of training epochs
 - `learning_rate`: Initial learning rate
