@@ -80,7 +80,6 @@ All results are saved to the `precision_comparison` directory:
 - Training and evaluation metrics
 - Comparative visualizations
 - Statistical analysis
-- Summary report
 
 ## Metrics Evaluated
 
